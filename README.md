@@ -99,6 +99,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/3024_night.png)
 
+### Abernathy
+
+![Screenshot](screenshots/abernathy.png)
+
 ### Adventure
 
 ![Screenshot](screenshots/adventure.png)
@@ -147,9 +151,17 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/ayu_light.png)
 
+### ayu Mirage
+
+![Screenshot](screenshots/ayu_mirage.png)
+
 ### Aurora
 
 ![Screenshot](screenshots/aurora.png)
+
+### Banana Blueberry
+
+![Screenshot](screenshots/banana_blueberry.png)
 
 ### Batman
 
@@ -174,10 +186,6 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### BlueBerry Pie
 
 ![Screenshot](screenshots/blueberry_pie.png)
-
-### Blueberry Banana
-
-![Screenshot](screenshots/blueberry_banana.png)
 
 ### BlueDolphin
 ![Screenshot](screenshots/BlueDolphin.png)
@@ -350,6 +358,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/dracula.png)
 
+### Dracula+
+
+![Screenshot](screenshots/Dracula+.png)
+
 ### Duotone Dark
 
 ![Screenshot](screenshots/duotone_dark.png)
@@ -377,6 +389,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Espresso Libre
 
 ![Screenshot](screenshots/espresso_libre.png)
+
+### Fairyfloss
+
+![Screenshot](screenshots/fairyfloss.png)
 
 ### Fahrenheit
 
@@ -438,6 +454,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/github.png)
 
+### GitHub Dark
+
+![Screenshot](screenshots/GitHub_Dark.png)
+
 ### Glacier
 
 ![Screenshot](screenshots/glacier.png)
@@ -474,6 +494,18 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/harper.png)
 
+### HaX0R_R3D
+
+![Screenshot](screenshots/HaX0R_R3D.png)
+
+### HaX0R_GR33N
+
+![Screenshot](screenshots/HaX0R_GR33N.png)
+
+### HaX0R_BLUE
+
+![Screenshot](screenshots/HaX0R_BLUE.png)
+
 ### Highway
 
 ![Screenshot](screenshots/highway.png)
@@ -506,11 +538,11 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/hybrid.png)
 
-### IC_Green_PPL
+### IC\_Green\_PPL
 
 ![Screenshot](screenshots/ic_green_ppl.png)
 
-### IC_Orange_PPL
+### IC\_Orange\_PPL
 
 ![Screenshot](screenshots/ic_orange_ppl.png)
 
@@ -598,6 +630,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/man_page.png)
 
+### Mariana
+
+![Screenshot](screenshots/mariana.png)
+
 ### Material
 
 ![Screenshot](screenshots/material.png)
@@ -605,6 +641,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### MaterialDark
 
 ![Screenshot](screenshots/material_dark.png)
+
+### MaterialDarker
+
+![Screenshot](screenshots/material_darker.png)
 
 ### MaterialOcean
 
@@ -682,6 +722,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/nocturnal_winter.png)
 
+### Nord
+
+![Screenshot](screenshots/nord.png)
+
 ### Obsidian
 
 ![Screenshot](screenshots/obsidian.png)
@@ -722,7 +766,7 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/pandora.png)
 
-### Parasio Dark
+### Paraiso Dark
 
 ![Screenshot](screenshots/paraiso_dark.png)
 
@@ -738,6 +782,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/pencil_light.png)
 
+### Peppermint
+
+![Screenshot](screenshots/Peppermint.png)
+
 ### Piatto Light
 
 ![Screenshot](screenshots/piatto_light.png)
@@ -745,6 +793,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Pnevma
 
 ![Screenshot](screenshots/pnevma.png)
+
+### Popping and Locking
+
+![Screenshot](screenshots/Popping_and_Locking.png)
 
 ### Primary
 
@@ -915,6 +967,10 @@ more information.
 
 ![Screenshot](screenshots/square.png)
 
+### Sublette
+
+![Screenshot](screenshots/sublette.png)
+
 ### Subliminal
 
 ![Screenshot](screenshots/subliminal.png)
@@ -1010,6 +1066,10 @@ more information.
 ### UltraViolent
 
 ![Screenshot](screenshots/ultra_violent.png)
+
+### UltraDark
+
+![Screenshot](screenshots/ultradark.png)
 
 ### Under The Sea
 
@@ -1364,6 +1424,24 @@ The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanar
 The [Raycast](https://raycast.com) Dark/Light themes were created by [thomaspaulmann](https://github.com/thomaspaulmann) and [itsnwa](https://github.com/itsnwa).
 
 The BlueDolphin theme was designed by [vimiomori](https://github.com/vimiomori).
+
+The Sublette theme was created by [sublee](https://github.com/sublee).
+
+The UltraDark theme was created by [Kasper](https://github.com/Kasper-Liu).
+
+The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.
+
+The Mariana theme was adapted from the [Sublime Text](https://www.sublimetext.com/) theme of the same name.
+
+The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https://github.com/pratikmullick)
+
+The Ayu Mirage theme was adapted from the [VS Code theme](https://github.com/ayu-theme/vscode-ayu) of the same name.
+
+The Peppermint theme was created by [Noah Frederick](https://noahfrederick.com/log/lion-terminal-theme-peppermint) and adapted for iTerm by [dotzero](https://github.com/dotzero/iTerm-2-Peppermint).
+
+The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
+
+The Abernathy theme was created by [barish](https://instagram.com/barish)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
